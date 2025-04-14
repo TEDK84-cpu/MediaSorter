@@ -1,0 +1,11 @@
+Folder: settings/
+  settings_handler.py: Working Properly
+  settings.json: Working Properly
+
+Folder: Root
+  file_sorter_gui.py: Working Properly
+  file_sorter.py: Working Properly
+
+Folder: movie_code/
+  movie_handler.py: Working Properly
+
